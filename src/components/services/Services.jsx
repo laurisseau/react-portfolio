@@ -25,7 +25,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>proficient in designing responsive interfaces that adaptsacross different devices and screen sizes.</p>
+              <p>proficient in designing responsive interfaces that adapts across different devices and screen sizes.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />

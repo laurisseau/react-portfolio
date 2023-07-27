@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__content">
           <p>
             I'm a web developer with a focus on the MERN stack, but still
-            exploring other technologies and frameworks that catch my interest!
+            exploring other technologies and frameworks!
             if you're looking for a developer to add to your team, I'd love to
             hear from you!
           </p>
