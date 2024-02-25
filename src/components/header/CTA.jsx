@@ -1,5 +1,4 @@
 import React from 'react'
-import CV from '../../assets/Laurisseau_Joseph_CV.pdf'
 
 const CTA = () => {
   return (
