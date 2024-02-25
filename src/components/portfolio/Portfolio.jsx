@@ -1,30 +1,14 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/barber-screenshot.png'
-import IMG2 from '../../assets/ecommerce-img.png'
-import IMG3 from '../../assets/sub-web.png'
+import IMG1 from '../../assets/etta-screenshot.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Barber Booking App: Streamlining Appointments with Style',
-    github: 'https://github.com/laurisseau/SuaveHouseHairStudio',
-    demo: 'https://www.suavehousestudio.com/'
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: 'Empowering E-commerce: Integrated Financial Management & Sales Platform',
-    github: 'https://github.com/laurisseau/barber-ecommerce',
-    demo: 'https://ecommerce-mern.herokuapp.com/'
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: 'LawnEase: Seamless Subscription Management with Stripe Integration & Webhooks',
-    github: 'https://github.com/laurisseau/lawn-service/tree/master',
-    demo: 'https://subscription-services.herokuapp.com/'
+    title: 'Early Transition To Tech: Edtech',
+    github: 'https://github.com/laurisseau/ETTA-backend',
+    demo: 'https://www.earlytech.org'
   }
 ]
 
