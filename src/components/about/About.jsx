@@ -8,14 +8,12 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className="container about__container">
-
-
         <div className="about__content">
           <p>
-            I'm a web developer with a focus on the MERN stack, but still
-            exploring other technologies and frameworks!
-            if you're looking for a developer to add to your team, I'd love to
-            hear from you!
+            A detailed-oriented team player ready to contribute to company
+            success, dedicated to achieving demanding development objectives
+            while producing impeccable code and meeting tight deadlines. Also
+            possessing troubleshooting and debugging skills.
           </p>
 
           <a href="#contact" className="btn btn-primary">
